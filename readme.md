@@ -2,7 +2,7 @@
 
 <img src="./assets/d-join.webp" width="400" height="400">
 
-This is an exercise wher you will practice using JOINS.
+This is an exercise in using PostgreSQL JOINS. Every question will be based on either a LEFT, RIGHT or INNER Join.
 
 Given two tables, `customers` and `orders` in a `purchases` database, you will track certain data for your business based on the orders that have been made from your customers.
 

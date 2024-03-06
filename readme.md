@@ -25,4 +25,5 @@ To test a query, each time, run `\i customers.sql` in the psql part of the termi
 Remember, each time that you run the above command you are recreating the database and the tables and re-running all the queries.
 
 If you feel your terminal is too crowded when testing, feel free to comment out the previous problems.
+
 **DO NOT** comment out the statements and solutions in the sql file that sit between `Getting started, do not update` and `\echo - Find all orders, including the firstname, lastname and email of the customer who made each order.`

@@ -18,7 +18,7 @@ In the terminal run the following commands:
 
 To test a query, each time, run `\i customers.sql`
 
-Remember, each time that you run the final command you are recreating the database and the tables and re-running all the queries.
+Remember, each time that you run the above command you are recreating the database and the tables and re-running all the queries.
 
 If you feel your terminal is too crowded when testing, feel free to comment out the previous problems.
 **DO NOT** comment out the statements and solutions between `Getting started, do not update` and `\echo - Find all orders, including the firstname, lastname and email of the customer who made each order.`

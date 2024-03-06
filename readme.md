@@ -16,6 +16,8 @@ In the terminal run the following commands:
 - `psql`
 - `\i customers.sql` to run the file customers.sql
 
+## Instructions
+
 You will write a query between the `--` lines for each echo that is given.
 
 To test a query, each time, run `\i customers.sql`

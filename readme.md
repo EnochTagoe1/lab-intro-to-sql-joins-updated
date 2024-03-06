@@ -4,7 +4,7 @@
 
 This is an exercise wher you will practice using JOINS.
 
-You need to track certain data for your business based on the orders that have been made from your customers.
+Given two tables, `customers` and `orders` in a `purchases` database, you will track certain data for your business based on the orders that have been made from your customers.
 
 ## Getting Started
 

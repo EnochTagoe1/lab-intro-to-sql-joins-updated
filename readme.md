@@ -1,4 +1,8 @@
-# SQL PURCHASES
+# Lab SQL Table Joins
+
+<img src="./assets/d-join.webp" width="400" height="400">
+
+This is an exercise wher you will practice using JOINS.
 
 You need to track certain data for your business based on the orders that have been made from your customers.
 

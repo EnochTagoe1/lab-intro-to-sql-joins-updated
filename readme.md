@@ -20,7 +20,7 @@ In the terminal run the following commands:
 
 You will write a query between the `--` lines for each echo that is given.
 
-To test a query, each time, run `\i customers.sql`
+To test a query, each time, run `\i customers.sql` in the psql part of the terminal either in VSCode or in your iTerm. Not both. Make sure your Postgres app is running.
 
 Remember, each time that you run the above command you are recreating the database and the tables and re-running all the queries.
 

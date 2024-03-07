@@ -12,9 +12,9 @@ CREATE DATABASE purchases;
 \echo - Create a table called customers
  -- with the following columns
 -- id serial primary KEY
--- firstname - string
--- lastname - string
--- email - string (unable to be null)
+-- firstname - string with 20 characters
+-- lastname - string with 50 characters
+-- email - string with 20 characters(unable to be null)
 --
 
 --
@@ -30,6 +30,7 @@ CREATE DATABASE purchases;
 -- ('Jordan', 'Lee', 'jordan.lee@example.com'),
 -- ('Casey', 'Morgan', 'casey.morgan@example.com'),
 -- ('Riley', 'Quinn', 'riley.quinn@example.com');
+-- ('Taylor', 'Morgan', 'taylor.morgan@example.com');
 
 
 

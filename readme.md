@@ -11,6 +11,7 @@ Given two tables, `customers` and `orders` in a `purchases` database, you will t
 <img src='./assets/customers.png' width="400" height="200">
 
 `Orders Table`
+
 <img src='./assets/orders.png' width="400" height="200">
 
 ## Getting Started

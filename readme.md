@@ -7,10 +7,11 @@ This is an exercise in using PostgreSQL JOINS. Every question will be based on e
 Given two tables, `customers` and `orders` in a `purchases` database, you will track certain data for your business based on the orders that have been made from your customers.
 
 `Customers Table`
-<img src='./assets/customers.png' width="300" height="150">
+
+<img src='./assets/customers.png' width="400" height="200">
 
 `Orders Table`
-<img src='./assets/orders.png' width="300" height="150">
+<img src='./assets/orders.png' width="400" height="200">
 
 ## Getting Started
 

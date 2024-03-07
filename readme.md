@@ -20,7 +20,7 @@ In the terminal run the following commands:
 
 - `fork` and `clone` this repository
 - `cd` into to directory
-- `ls` make sure you see the file custoners.sql
+- `ls` make sure you see the file customers.sql
 - `psql`
 - `\i customers.sql` to run the file customers.sql
 
